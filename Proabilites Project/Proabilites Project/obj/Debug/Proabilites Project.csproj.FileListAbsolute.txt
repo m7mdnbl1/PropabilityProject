@@ -1,0 +1,8 @@
+D:\My Programs\C#\Proabilites Project\Proabilites Project\bin\Debug\Proabilites Project.exe.config
+D:\My Programs\C#\Proabilites Project\Proabilites Project\bin\Debug\Proabilites Project.exe
+D:\My Programs\C#\Proabilites Project\Proabilites Project\bin\Debug\Proabilites Project.pdb
+D:\My Programs\C#\Proabilites Project\Proabilites Project\obj\Debug\Proabilites Project.csproj.AssemblyReference.cache
+D:\My Programs\C#\Proabilites Project\Proabilites Project\obj\Debug\Proabilites Project.csproj.SuggestedBindingRedirects.cache
+D:\My Programs\C#\Proabilites Project\Proabilites Project\obj\Debug\Proabilites Project.csproj.CoreCompileInputs.cache
+D:\My Programs\C#\Proabilites Project\Proabilites Project\obj\Debug\Proabilites Project.exe
+D:\My Programs\C#\Proabilites Project\Proabilites Project\obj\Debug\Proabilites Project.pdb
